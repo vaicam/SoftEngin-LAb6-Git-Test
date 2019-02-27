@@ -20,6 +20,7 @@ public class Lab6CPAt {
         i++;
         int j=0;
         j--;
+        System.out.print(i+j);
     }
     
 }
