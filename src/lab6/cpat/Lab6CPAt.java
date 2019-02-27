@@ -16,6 +16,8 @@ public class Lab6CPAt {
      */
     public static void main(String[] args) {
         System.out.print("Hi");
+        int j=0;
+        j--;
     }
     
 }
