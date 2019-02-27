@@ -21,6 +21,8 @@ public class Lab6CPAt {
         int j=0;
         j--;
         System.out.print(i+j);
+        
+        int c=51;
     }
     
 }
